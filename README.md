@@ -1,5 +1,5 @@
-# Workshop Name
-[description]
+# Bringing Your Research Alive with StoryMaps
+Welcome! Use this repository to find and download the workshop files needed for the JHU Data Services workshop to learn ArcGIS StoryMaps.
 
 
 ## JHU Data Services   
@@ -13,25 +13,32 @@ As of March 2020, Data Services workshops are being held virtually on Zoom. [See
 
 
 ## Pre-Class Instructions
-Before the class, follow the [installation instructions to download all required software and tools for this workshop](link-to-github-installation-repo).
+Before the class, navigate to the [WorkshopFiles folder](WorkshopFiles) and follow the instructions to download the files.
 
 
 ## Description of Files
-- Data: This folder contains raw data files to be used during hands-on activities in the workshop
-- In-ClassScripts: This folder contains code files you will need for the workshop:
-    - [file1]
-    - [file2]
-    - [file3]
-- PresentationMaterials: This folder contains PowerPoint slides and other presentation materials used in the workshop
-- Resources: This folder contains cheatsheets to assist you during the workshop and links to external sources for you to continue your learning
-
+- WorkshopFiles: This folder contains image and text files you will need for the workshop:
+    - Abu Simbel.JPG
+    - Abydos.jpg
+    - Dahshur.JPG
+    - Deir el Bahri.jpg
+    - Deir el Medina.jpg
+    - Dendera.jpg
+    - Egypt Story Map Text 2022.docx
+    - Giza.JPG
+    - Karnak.jpg
+    - Kom Ombo.JPG
+    - Luxor Temple Day.jpg
+    - Luxor Temple Night.JPG
+    - Saqqara (Irukaptah).JPG
+    - Title Slide = View over the Nile.jpg
 
 ## Post-Class Survey
-If you have taken the live webinar for this class, please take this survey: [link name](url)
+If you have taken the live webinar for this class, please take this survey: [Bring Your Research Alive with StoryMaps Survey](https://www.surveymonkey.com/r/BeginnerStoryMap)
 
 
 ## License and Terms of Use
-The presentation materials are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/), attributable to [Data Services](https://dataservices.library.jhu.edu/), Johns Hopkins University. 
+The presentation materials are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/), attributable to [Data Services](https://dataservices.library.jhu.edu/), Johns Hopkins University.
 
 See LICENSE file for additional code licensing and re-use information.   
 
@@ -40,4 +47,4 @@ The images, external resources, and cheatsheets linked in this repository may ha
 
 ## Citation
 Please cite this material as:    
-Johns Hopkins University Data Services. [Date of workshop]. [Workshop title]. [URL] 
+Johns Hopkins University Data Services. [Date of workshop]. _Bringing Your Research Alive with StoryMaps_.
