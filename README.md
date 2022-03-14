@@ -3,11 +3,11 @@ Welcome! Use this repository to find and download the workshop files needed for 
 
 
 ## Pre-Class Instructions
-Before the class, navigate to the [WorkshopFiles folder](WorkshopFiles) and follow the instructions to download the files.
+Before the class, navigate to the [WorkshopFiles folder](WorkshopFiles) and follow the Instructions document to download the files.
 
 
 ## Description of Files
-- WorkshopFiles: This folder contains image and text files you will need for the workshop:
+- WorkshopFiles: This folder contains image and text files you will need for the workshop, both individually and as a single large download:
     - Abu Simbel.JPG
     - Abydos.jpg
     - Dahshur.JPG
@@ -22,6 +22,7 @@ Before the class, navigate to the [WorkshopFiles folder](WorkshopFiles) and foll
     - Luxor Temple Night.JPG
     - Saqqara (Irukaptah).JPG
     - Title Slide - View over the Nile.jpg
+- Please read the Instructions document for directions on how to download them.
 
 ## Post-Class Survey
 If you have taken the live webinar for this class, please take this survey: [Bring Your Research Alive with StoryMaps Survey](https://www.surveymonkey.com/r/BeginnerStoryMap)
