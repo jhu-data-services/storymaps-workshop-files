@@ -2,16 +2,6 @@
 Welcome! Use this repository to find and download the workshop files needed for the JHU Data Services workshop to learn ArcGIS StoryMaps.
 
 
-## JHU Data Services   
-Website: [dataservices.library.jhu.edu/](https://dataservices.library.jhu.edu/)   
-Contact us: [dataservices@jhu.edu](mailto:dataservices@jhu.edu)   
-JHU Data Services, part of the Johns Hopkins University Sheridan Libraries, helps the JHU community find, use, visualize, manage, and share data. We offer live webinars and self-paced online trainings on computational research and coding, GIS, data management, data visualization, and more. [See all of our training topics on our website.](https://dataservices.library.jhu.edu/training-workshops/)   
-
-This repository contains materials for one of our live webinars open to JHU students, faculty, and staff. Please [contact us](mailto:dataservices@jhu.edu) with any questions.
-
-As of March 2020, Data Services workshops are being held virtually on Zoom. [See our calendar to register for upcoming workshops.](https://dataservices.library.jhu.edu/training-workshops/calendar/)
-
-
 ## Pre-Class Instructions
 Before the class, navigate to the [WorkshopFiles folder](WorkshopFiles) and follow the instructions to download the files.
 
@@ -31,7 +21,7 @@ Before the class, navigate to the [WorkshopFiles folder](WorkshopFiles) and foll
     - Luxor Temple Day.jpg
     - Luxor Temple Night.JPG
     - Saqqara (Irukaptah).JPG
-    - Title Slide = View over the Nile.jpg
+    - Title Slide - View over the Nile.jpg
 
 ## Post-Class Survey
 If you have taken the live webinar for this class, please take this survey: [Bring Your Research Alive with StoryMaps Survey](https://www.surveymonkey.com/r/BeginnerStoryMap)
@@ -48,3 +38,14 @@ The images, external resources, and cheatsheets linked in this repository may ha
 ## Citation
 Please cite this material as:    
 Johns Hopkins University Data Services. [Date of workshop]. _Bringing Your Research Alive with StoryMaps_.
+
+
+
+## About JHU Data Services   
+Website: [dataservices.library.jhu.edu/](https://dataservices.library.jhu.edu/)   
+Contact us: [dataservices@jhu.edu](mailto:dataservices@jhu.edu)   
+JHU Data Services, part of the Johns Hopkins University Sheridan Libraries, helps the JHU community find, use, visualize, manage, and share data. We offer live webinars and self-paced online trainings on computational research and coding, GIS, data management, data visualization, and more. [See all of our training topics on our website.](https://dataservices.library.jhu.edu/training-workshops/)   
+
+This repository contains materials for one of our live webinars open to JHU students, faculty, and staff. Please [contact us](mailto:dataservices@jhu.edu) with any questions.
+
+As of March 2020, Data Services workshops are being held virtually on Zoom. [See our calendar to register for upcoming workshops.](https://dataservices.library.jhu.edu/training-workshops/calendar/)
