@@ -1,5 +1,12 @@
-# Bringing Your Research Alive with StoryMaps
+# Bringing Your Research Alive with ArcGIS StoryMaps
 Welcome! Use this repository to find and download the workshop files needed for the JHU Data Services workshop to learn ArcGIS StoryMaps.
+
+
+## Instructional Videos
+If you are a Johns Hopkins affiliate with a JHED ID login, you have access to the following 3 instructional videos that can assist with ArcGIS StoryMaps training. Please note that these videos are recordings of live webinars conducted in 2022 and some of the material may be out of date. The Demo video refers to the files in this GitHub repository.
+- [BringResearchAliveStoryMaps_Intro_20221004](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4fe66bad-c51e-4abe-ac18-af2600f106fc)
+- [BringResearchAliveStoryMaps_Demo_20221004](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7e47af32-b57a-4af6-bc94-af26010527b2)
+- [DataBytes_AdvancedStoryMaps_20221024](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=48478519-5112-403d-a273-af38014d019b)
 
 
 ## Pre-Class Instructions
@@ -24,6 +31,7 @@ Before the class, navigate to the [WorkshopFiles folder](WorkshopFiles) and foll
     - Title Slide - View over the Nile.jpg
 - Please read the instructions document in that folder for directions on how to download them.
 
+
 ## Post-Class Survey
 If you have taken the live webinar for this class, please take this survey: [Bring Your Research Alive with StoryMaps Survey](https://www.surveymonkey.com/r/BeginnerStoryMap)
 
@@ -38,8 +46,7 @@ The images, external resources, and cheatsheets linked in this repository may ha
 
 ## Citation
 Please cite this material as:    
-Johns Hopkins University Data Services. [Date of workshop]. _Bringing Your Research Alive with StoryMaps_.
-
+Johns Hopkins University Data Services. _Bringing Your Research Alive with StoryMaps_.
 
 
 ## About JHU Data Services   
