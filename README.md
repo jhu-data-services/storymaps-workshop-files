@@ -9,6 +9,12 @@ If you are a Johns Hopkins affiliate with a JHED ID login, you have access to th
 - [DataBytes_AdvancedStoryMaps_20221024](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=48478519-5112-403d-a273-af38014d019b)
 
 
+## Instructional StoryMaps Collections
+If you are a Johns Hopkins affiliate with a JHED ID login, you have access to the following 2 instructional StoryMaps Collections that can assist with ArcGIS StoryMaps training. The videos above use these links, and the downloads mentioned in them refers to the files in this GitHub repository.
+- [Beginners Workshop Introduction to ArcGIS StoryMaps](https://storymaps.arcgis.com/collections/71def2259d01486ea52b345a5d2e8de8)
+- [Interactive Demo Instructions for Building Your ArcGIS StoryMaps](https://storymaps.arcgis.com/collections/842b99e0edd54d7f8b0cfa804c552ae9)
+
+
 ## Pre-Class Instructions
 Before the class, navigate to the [WorkshopFiles folder](WorkshopFiles) and follow the instructions in that folder to download the files.
 
