@@ -4,9 +4,9 @@ Welcome! Use this repository to find and download the workshop files needed for 
 
 ## Instructional Videos
 If you are a Johns Hopkins affiliate with a JHED ID login, you have access to the following 3 instructional videos that can assist with ArcGIS StoryMaps training. Please note that these videos are recordings of live webinars conducted in 2022 and some of the material may be out of date. The Demo video refers to the files in this GitHub repository.
-- [BringResearchAliveStoryMaps_Intro_20221004](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4fe66bad-c51e-4abe-ac18-af2600f106fc)
-- [BringResearchAliveStoryMaps_Demo_20221004](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7e47af32-b57a-4af6-bc94-af26010527b2)
-- [DataBytes_AdvancedStoryMaps_20221024](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=48478519-5112-403d-a273-af38014d019b)
+- [Bringing Your Research Alive with StoryMaps: Introduction](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c36df4a3-bc2c-485a-9867-b05701511cab)
+- [Bringing Your Research Alive with StoryMaps: Demo](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d95358d5-351e-4433-9c1d-b05701511c83)
+- [Data Bytes: Advanced StoryMaps](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bb055998-8ad8-484e-b01b-b0570151467d)
 
 
 ## Instructional StoryMaps Collections
